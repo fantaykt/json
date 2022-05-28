@@ -1,5 +1,7 @@
-1)test
-2)test2
-3)test3
-:wq
+{
+	"name": "Vasily Everstov",
+	"age": "30",
+	"pets": "0",
+	"offer": "80000"
+}
 
